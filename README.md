@@ -1,4 +1,4 @@
-# 📝 TODO App
+#  TODO App
 To run on local host, follow the steps given below
 ### 🔹 Backend Setup
 
